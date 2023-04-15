@@ -1,0 +1,8 @@
+test.py
+__pycache__
+credentials.py
+markers.svg
+light.png
+*test*
+*.db
+image.png
